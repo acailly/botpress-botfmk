@@ -1,4 +1,4 @@
-# botpress-discord
+# Microsoft Bot Framework connector for Botpress (https://botpress.io/)
 
 ## Installation
 

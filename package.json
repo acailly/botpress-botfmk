@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Microsoft Bot Framework connector for botpress",
   "main": "bin/node.bundle.js",
+  "repository": "https://github.com/acailly/botpress-botfmk.git",
   "botpress": {
     "menuText": "botpress-botfmk",
     "menuIcon": "view_module",
