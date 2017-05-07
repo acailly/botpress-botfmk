@@ -1,6 +1,6 @@
 {
   "name": "botpress-botfmk",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Microsoft Bot Framework connector for botpress",
   "main": "bin/node.bundle.js",
   "repository": "https://github.com/acailly/botpress-botfmk.git",
