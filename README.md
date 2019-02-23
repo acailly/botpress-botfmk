@@ -1,3 +1,5 @@
+# Disclaimer : This project is not maintained anymore
+
 # Microsoft Bot Framework connector for Botpress (https://botpress.io/)
 
 ## Installation
